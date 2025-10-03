@@ -17,3 +17,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] Hobbit
 - [ ] Fabrica de Choocolate
 - [ ] Jurasic World
+- [ ] Hobbit 2
+- [ ] Harry Potter
+
